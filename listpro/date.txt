@@ -1,0 +1,12 @@
+Array
+(
+    [upl] => Array
+        (
+            [name] => 2013-11-10-20-07-01.png
+            [type] => image/png
+            [tmp_name] => D:\TMP\php4FC6.tmp
+            [error] => 0
+            [size] => 2813829
+        )
+
+)

@@ -1,0 +1,59 @@
+[23-Sep-2013 21:02:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\library\config.php on line 12
+[03-Oct-2013 14:52:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_curl.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_fileinfo.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_gd2.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_mbstring.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_exif.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_mysql.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_mysqli.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_openssl.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_pdo_mysql.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_pdo_sqlite.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_soap.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_sockets.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_sqlite3.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_xmlrpc.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_geoip.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_http.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_mailparse.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_oauth.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_rar.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_stomp.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_dblib.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_ssh2.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_uploadprogress.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\php_memcache.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[03-Oct-2013 14:52:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library './php-5.4/ext\eAccelerator_ts.dll' - тぃ﹚家舱
+ in Unknown on line 0
+[05-Oct-2013 21:49:51 Asia/Taipei] PHP Parse error:  syntax error, unexpected '16' (T_LNUMBER) in D:\PHP\TWAMPd\htdocs\library\NoteProcess.php on line 123
+[08-Oct-2013 18:38:33 Asia/Taipei] PHP Warning:  include(library/Listprolib.php): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\library\exportcsc.php on line 2
+[08-Oct-2013 18:38:33 Asia/Taipei] PHP Warning:  include(): Failed opening 'library/Listprolib.php' for inclusion (include_path='.;') in D:\PHP\TWAMPd\htdocs\library\exportcsc.php on line 2
+[08-Oct-2013 18:38:33 Asia/Taipei] PHP Fatal error:  Call to undefined function opendb() in D:\PHP\TWAMPd\htdocs\library\exportcsc.php on line 3
+[08-Oct-2013 18:39:27 Asia/Taipei] PHP Warning:  mysql_error(): 3 is not a valid MySQL-Link resource in D:\PHP\TWAMPd\htdocs\library\exportcsc.php on line 10
+[08-Oct-2013 18:40:08 Asia/Taipei] PHP Fatal error:  Call to undefined function outputcsv() in D:\PHP\TWAMPd\htdocs\library\exportcsc.php on line 20
+[08-Oct-2013 18:56:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\library\exportcsc.php on line 37
+[08-Oct-2013 19:54:32 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in D:\PHP\TWAMPd\htdocs\library\NoteProcess.php on line 125

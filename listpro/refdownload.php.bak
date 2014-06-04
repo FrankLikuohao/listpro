@@ -1,0 +1,16 @@
+<? php
+if($_GET['f']!=null){
+	$file=$_GET['f'];//檔案名稱
+	$file="01.jpg"
+	//$url="http://www.arno.tw/images/"; //路徑位置
+	$url="http://192.168.1.101:6001/"; //路徑位置
+	$num=date("Ymds");	
+	header("Content-type:application");
+	print "\nfile=[$file]  ";
+	header("Content-Disposition: attachment; filename=".$file);	
+	readfile($url.str_replace("@","",$file));	
+	exit(0);
+}else{
+	echo "找不到相關檔案....";
+}
+?>

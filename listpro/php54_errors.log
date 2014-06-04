@@ -1,0 +1,628 @@
+[06-Oct-2013 19:16:18 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\Listpro.php on line 18
+[06-Oct-2013 23:00:33 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\test.php on line 50
+[06-Oct-2013 23:00:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\test.php on line 50
+[06-Oct-2013 23:01:09 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\test.php on line 61
+[06-Oct-2013 23:15:02 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\test.php on line 35
+[07-Oct-2013 00:20:49 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in D:\PHP\TWAMPd\htdocs\test.php on line 62
+[07-Oct-2013 07:24:09 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 40
+[07-Oct-2013 07:24:41 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 40
+[07-Oct-2013 07:37:53 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 40
+[07-Oct-2013 07:47:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 38
+[07-Oct-2013 07:47:59 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 38
+[07-Oct-2013 07:49:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 39
+[07-Oct-2013 07:49:46 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 39
+[07-Oct-2013 08:22:14 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php on line 43
+[07-Oct-2013 12:08:55 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControl.php on line 106
+[07-Oct-2013 12:12:13 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControl.php on line 106
+[07-Oct-2013 13:05:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected '192.168' (T_DNUMBER), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php on line 344
+[07-Oct-2013 20:01:54 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 410
+[07-Oct-2013 21:50:44 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=' in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 261
+[07-Oct-2013 21:50:58 Asia/Taipei] PHP Parse error:  syntax error, unexpected ']' in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 261
+[08-Oct-2013 06:38:03 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\PHP\TWAMPd\htdocs\checklogin.php on line 26
+[08-Oct-2013 06:43:34 Asia/Taipei] PHP Fatal error:  Call to undefined function session_register() in D:\PHP\TWAMPd\htdocs\checklogin.php on line 33
+[08-Oct-2013 06:52:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"myusername"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in D:\PHP\TWAMPd\htdocs\checklogin.php on line 33
+[08-Oct-2013 06:52:37 Asia/Taipei] PHP Fatal error:  Call to undefined function session_is_registered() in D:\PHP\TWAMPd\htdocs\login_success.php on line 5
+[08-Oct-2013 06:54:27 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in D:\PHP\TWAMPd\htdocs\login_success.php on line 6
+[08-Oct-2013 06:56:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in D:\PHP\TWAMPd\htdocs\login_success.php on line 6
+[08-Oct-2013 06:57:10 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"myusername"' (T_CONSTANT_ENCAPSED_STRING) in D:\PHP\TWAMPd\htdocs\login_success.php on line 6
+[08-Oct-2013 07:03:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')', expecting ']' in D:\PHP\TWAMPd\htdocs\checklogin.php on line 33
+[08-Oct-2013 08:17:31 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\login_success.php on line 8
+[08-Oct-2013 08:56:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in D:\PHP\TWAMPd\htdocs\Logout.php on line 7
+[08-Oct-2013 10:25:59 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.' in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 579
+[08-Oct-2013 10:29:36 Asia/Taipei] PHP Warning:  move_uploaded_file(frank_lghAdditermData/1156_0_1381199376.jpeg): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 466
+[08-Oct-2013 10:29:36 Asia/Taipei] PHP Warning:  move_uploaded_file(): Unable to move 'D:\TMP\php52E8.tmp' to 'frank_lghAdditermData/1156_0_1381199376.jpeg' in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 466
+[08-Oct-2013 10:29:36 Asia/Taipei] PHP Warning:  file_get_contents(frank_lghAdditermData/1156_0_1381199376.jpeg): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 9
+[08-Oct-2013 11:07:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php on line 534
+[08-Oct-2013 13:15:58 Asia/Taipei] PHP Fatal error:  Cannot redeclare updateflagdb() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 434
+[08-Oct-2013 13:16:03 Asia/Taipei] PHP Fatal error:  Cannot redeclare updateflagdb() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 434
+[08-Oct-2013 14:56:19 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 444
+[08-Oct-2013 14:56:20 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 416
+[08-Oct-2013 14:59:18 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 444
+[08-Oct-2013 14:59:43 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 444
+[08-Oct-2013 20:12:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 600
+[08-Oct-2013 20:13:05 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 600
+[08-Oct-2013 20:13:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 600
+[08-Oct-2013 20:13:59 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 600
+[09-Oct-2013 10:55:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'subtext' (T_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 296
+[09-Oct-2013 11:06:43 Asia/Taipei] PHP Warning:  file_get_contents(AdditermData/1221.): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 9
+[09-Oct-2013 11:06:43 Asia/Taipei] PHP Warning:  file_get_contents(AdditermData/1222.): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 9
+[09-Oct-2013 11:10:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')', expecting ']' in D:\PHP\TWAMPd\htdocs\library\ListproControlLib.php on line 467
+[09-Oct-2013 13:14:43 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.' in D:\PHP\TWAMPd\htdocs\library\Listprolib.php on line 118
+[11-Oct-2013 21:21:33 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 69
+[11-Oct-2013 21:30:50 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproFrontEnd.php on line 3
+[11-Oct-2013 22:56:12 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 270
+[11-Oct-2013 22:56:41 Asia/Taipei] PHP Fatal error:  Call to undefined function checkFormSubmit() in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 65
+[15-Oct-2013 19:17:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 117
+[15-Oct-2013 21:56:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$pos' (T_VARIABLE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 180
+[15-Oct-2013 21:56:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$pos' (T_VARIABLE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 180
+[16-Oct-2013 08:18:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 4
+[16-Oct-2013 08:19:27 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 4
+[16-Oct-2013 08:19:43 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 5
+[16-Oct-2013 08:19:54 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 5
+[16-Oct-2013 09:42:15 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 599
+[16-Oct-2013 10:37:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected '>' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 281
+[16-Oct-2013 10:46:08 Asia/Taipei] PHP Parse error:  syntax error, unexpected '>' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 279
+[18-Oct-2013 21:43:35 Asia/Taipei] PHP Fatal error:  Cannot redeclare mysql_fetch_all_filter_show() (previously declared in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php:133) in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php on line 374
+[18-Oct-2013 21:51:14 Asia/Taipei] PHP Fatal error:  Call to undefined function mysql_fetch_all_filter_mobile_show() in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 50
+[18-Oct-2013 21:57:15 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php on line 239
+[18-Oct-2013 22:00:54 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\library\ListproShowLib.php on line 599
+[19-Oct-2013 17:49:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 31
+[19-Oct-2013 17:49:54 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 31
+[19-Oct-2013 19:53:31 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 29
+[19-Oct-2013 20:01:12 Asia/Taipei] PHP Fatal error:  Cannot break/continue 1 level in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 33
+[19-Oct-2013 20:02:06 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 159
+[19-Oct-2013 20:21:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 34
+[19-Oct-2013 22:59:43 Asia/Taipei] PHP Warning:  Missing argument 1 for modify_show(), called in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 280 and defined in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 129
+[19-Oct-2013 23:03:07 Asia/Taipei] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 49
+[19-Oct-2013 23:03:11 Asia/Taipei] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 49
+[19-Oct-2013 23:03:12 Asia/Taipei] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 49
+[19-Oct-2013 23:03:16 Asia/Taipei] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 49
+[19-Oct-2013 23:03:47 Asia/Taipei] PHP Fatal error:  Cannot use [] for reading in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 48
+[19-Oct-2013 23:32:35 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 214
+[19-Oct-2013 23:50:47 Asia/Taipei] PHP Warning:  unlink(AdditermData/1495_0_1382197835.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[19-Oct-2013 23:56:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 213
+[19-Oct-2013 23:56:53 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 213
+[19-Oct-2013 23:57:53 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 216
+[20-Oct-2013 00:03:09 Asia/Taipei] PHP Parse error:  syntax error, unexpected '[' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 211
+[20-Oct-2013 00:09:48 Asia/Taipei] PHP Parse error:  syntax error, unexpected '[' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 211
+[26-Oct-2013 22:04:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'yy' (T_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproFrontEnd.php on line 38
+[26-Oct-2013 22:05:30 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'yy' (T_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproFrontEnd.php on line 38
+[26-Oct-2013 22:05:33 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'yy' (T_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproFrontEnd.php on line 38
+[27-Oct-2013 22:38:21 Asia/Taipei] PHP Fatal error:  Cannot redeclare imgsrc2ahref() (previously declared in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php:144) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 190
+[27-Oct-2013 22:38:40 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.', expecting '(' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 170
+[27-Oct-2013 22:44:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 526
+[28-Oct-2013 13:33:46 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 656
+[28-Oct-2013 13:35:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected '<' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 656
+[28-Oct-2013 21:59:47 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(494): Math->evaluate('')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[28-Oct-2013 22:01:25 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(494): Math->evaluate('')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[28-Oct-2013 22:04:42 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Undefined Value ''' in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php:26
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(21): TerminalExpression::factory('''')
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(11): Math->parse('''')
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(496): Math->evaluate('''')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php on line 26
+[28-Oct-2013 22:07:47 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Undefined Value '' in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php:26
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(21): TerminalExpression::factory(''')
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(11): Math->parse(''12*3'')
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(496): Math->evaluate(''12*3'')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php on line 26
+[28-Oct-2013 22:13:01 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Undefined Value '' in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php:26
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(21): TerminalExpression::factory(''')
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(11): Math->parse(''12*34'')
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(497): Math->evaluate(''12*34'')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php on line 26
+[28-Oct-2013 22:15:12 Asia/Taipei] PHP Parse error:  syntax error, unexpected '[' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 497
+[28-Oct-2013 22:17:29 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate('')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[28-Oct-2013 22:19:16 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate('')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[29-Oct-2013 20:39:13 Asia/Taipei] PHP Warning:  unlink(frank_lgh/AdditermData/1681_0_1383050178.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:39:13 Asia/Taipei] PHP Warning:  unlink(frank_lgh/AdditermData/1681_1_1383050178.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:40:04 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:40:04 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:44:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 668
+[29-Oct-2013 20:44:37 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:44:37 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:44:37 Asia/Taipei] PHP Warning:  mkdir(): File exists in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 397
+[29-Oct-2013 20:49:13 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:49:13 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:49:34 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:49:34 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[29-Oct-2013 20:50:05 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 20:50:05 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 20:50:17 Asia/Taipei] PHP Warning:  unlink(frank_lgh/AdditermData/1681_0_1383050135.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 20:50:17 Asia/Taipei] PHP Warning:  unlink(frank_lgh/AdditermData/1681_0_1383050168.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 20:50:17 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 20:50:17 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 20:50:53 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 21:03:04 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 239
+[29-Oct-2013 21:04:30 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 239
+[29-Oct-2013 21:04:56 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 239
+[29-Oct-2013 21:05:33 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 239
+[29-Oct-2013 21:08:01 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 239
+[29-Oct-2013 21:09:46 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 240
+[29-Oct-2013 21:10:56 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 241
+[29-Oct-2013 21:11:34 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 241
+[29-Oct-2013 21:12:28 Asia/Taipei] PHP Warning:  stristr(): Empty needle in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 241
+[29-Oct-2013 21:22:24 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1683_0_1383052686.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[29-Oct-2013 21:22:24 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1683_1_1383052686.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[30-Oct-2013 17:32:01 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1709_0_1383125405.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[31-Oct-2013 08:53:24 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1803_0_1383180228.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[31-Oct-2013 08:53:24 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1803_1_1383180228.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[31-Oct-2013 08:53:24 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1803_2_1383180228.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[31-Oct-2013 19:41:25 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/RECORD093.mp4): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[01-Nov-2013 09:25:17 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[02-Nov-2013 08:49:12 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/1866_0_1383353145.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[03-Nov-2013 05:14:35 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-10/AdditermData/1716_0_1383126185.jpg&lt;/a&gt;&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[03-Nov-2013 05:22:56 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[03-Nov-2013 05:45:58 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[03-Nov-2013 09:46:52 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[04-Nov-2013 02:51:11 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100041_0_1383504523.bin&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[04-Nov-2013 20:35:50 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[04-Nov-2013 20:47:34 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/1869_0_1383543980.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[04-Nov-2013 20:48:38 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/1869_0_1383543980.jpgheight=12): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[04-Nov-2013 21:23:36 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100049_0_1383571351.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[05-Nov-2013 14:22:36 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[05-Nov-2013 14:24:16 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[05-Nov-2013 23:31:15 Asia/Taipei] PHP Fatal error:  Cannot redeclare CheckHTCsystem() (previously declared in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php:67) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 93
+[05-Nov-2013 23:31:44 Asia/Taipei] PHP Fatal error:  Call to undefined function CheckAndroidsystem() in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 31
+[05-Nov-2013 23:31:58 Asia/Taipei] PHP Fatal error:  Cannot redeclare CheckHTCsystem() (previously declared in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php:67) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 93
+[05-Nov-2013 23:32:15 Asia/Taipei] PHP Fatal error:  Call to undefined function CheckAndroidsystem() in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 31
+[06-Nov-2013 09:12:23 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100060_0_1383632661.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[06-Nov-2013 11:14:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 87
+[07-Nov-2013 08:05:14 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100117_0_1383782677.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[07-Nov-2013 11:58:00 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 14:34:28 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 14:47:17 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 18:23:56 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100141_0_1383819788.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 204
+[07-Nov-2013 22:40:31 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:40:50 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:41:07 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:42:38 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(498): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:44:39 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(499): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:47:04 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(499): Math->evaluate('')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:52:08 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(500): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:53:03 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(500): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[07-Nov-2013 22:56:11 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 500
+[07-Nov-2013 23:31:11 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100161_0_1383837442.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[07-Nov-2013 23:45:06 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/100168_0_1383839094.jpg&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 198
+[08-Nov-2013 06:52:50 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 143
+[08-Nov-2013 08:40:45 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Undefined Value Project' in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php:26
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(21): TerminalExpression::factory('Project')
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(11): Math->parse('Project')
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(516): Math->evaluate('Project')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(52): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php on line 26
+[08-Nov-2013 11:37:06 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Undefined Value Project' in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php:26
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(21): TerminalExpression::factory('Project')
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(11): Math->parse('Project')
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(516): Math->evaluate('Project')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(100): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(53): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php on line 26
+[08-Nov-2013 19:40:32 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 465
+[09-Nov-2013 16:20:05 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/20131109_110227_0.png): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 200
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 17:33:11 Asia/Taipei] PHP Warning:  unlink(): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[09-Nov-2013 20:50:32 Asia/Taipei] PHP Warning:  move_uploaded_file(uploads/02_avatar_middle.jpg): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\upload.php on line 15
+[09-Nov-2013 20:50:32 Asia/Taipei] PHP Warning:  move_uploaded_file(): Unable to move 'D:\TMP\phpF35C.tmp' to 'uploads/02_avatar_middle.jpg' in D:\PHP\TWAMPd\htdocs\upload.php on line 15
+[10-Nov-2013 16:19:09 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Undefined Value ，' in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php:26
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(21): TerminalExpression::factory('???')
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(11): Math->parse('60*3???11*3')
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(518): Math->evaluate('60*3???11*3')
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(102): additerms()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(54): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\TerminalExpression.php on line 26
+[10-Nov-2013 22:25:55 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 720
+[10-Nov-2013 22:25:55 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 639
+[11-Nov-2013 08:02:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{', expecting ')' in D:\PHP\TWAMPd\htdocs\upload.php on line 12
+[11-Nov-2013 08:03:41 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{', expecting ')' in D:\PHP\TWAMPd\htdocs\upload.php on line 12
+[11-Nov-2013 08:04:10 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{', expecting ')' in D:\PHP\TWAMPd\htdocs\upload.php on line 12
+[11-Nov-2013 08:04:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{', expecting ')' in D:\PHP\TWAMPd\htdocs\upload.php on line 12
+[11-Nov-2013 08:18:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\PHP\TWAMPd\htdocs\upload.php on line 5
+[11-Nov-2013 08:34:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\upload.php on line 20
+[12-Nov-2013 07:53:11 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 720
+[12-Nov-2013 07:53:11 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 639
+[12-Nov-2013 07:55:07 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 720
+[12-Nov-2013 07:55:07 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 639
+[12-Nov-2013 07:57:55 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 720
+[12-Nov-2013 07:57:55 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 639
+[12-Nov-2013 09:33:36 Asia/Taipei] PHP Warning:  move_uploaded_file(frank_lgh/2013-11/AdditermData/110296_0_1384220016.20110507母親節+淡水高爾夫球場+一滴水+美人塾): failed to open stream: Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 608
+[12-Nov-2013 09:33:36 Asia/Taipei] PHP Warning:  move_uploaded_file(): Unable to move 'D:\TMP\php3E2.tmp' to 'frank_lgh/2013-11/AdditermData/110296_0_1384220016.20110507母親節+淡水高爾夫球場+一滴水+美人塾' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 608
+[12-Nov-2013 09:33:36 Asia/Taipei] PHP Warning:  file_get_contents(frank_lgh/2013-11/AdditermData/110296_0_1384220016.20110507母親節+淡水高爾夫球場+一滴水+美人塾): failed to open stream: Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 44
+[12-Nov-2013 09:34:04 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110296_0_1384220016.20110507母親節+淡水高爾夫球場+一滴水+美人塾): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 200
+[12-Nov-2013 17:05:24 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 436
+[13-Nov-2013 08:07:14 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110334_0_1384301152.png&lt;/a&gt;): Invalid argument in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 206
+[13-Nov-2013 12:05:55 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(259): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(64): update_modify_with_multi_file()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(58): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[13-Nov-2013 12:07:09 Asia/Taipei] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not render output' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php:69
+Stack trace:
+#0 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(50): Math->render(Object(Stack))
+#1 D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php(12): Math->run(Object(Stack))
+#2 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php(259): Math->evaluate(NULL)
+#3 D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php(64): update_modify_with_multi_file()
+#4 D:\PHP\TWAMPd\htdocs\ListproDevelop.php(58): require_once('D:\PHP\TWAMPd\h...')
+#5 {main}
+  thrown in D:\PHP\TWAMPd\htdocs\libraryDevelop\Math.php on line 69
+[13-Nov-2013 12:11:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{', expecting '(' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 260
+[13-Nov-2013 12:15:51 Asia/Taipei] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 260
+[13-Nov-2013 12:16:15 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 260
+[13-Nov-2013 12:16:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 260
+[13-Nov-2013 12:25:07 Asia/Taipei] PHP Fatal error:  Call to a member function operate() on a non-object in D:\PHP\TWAMPd\htdocs\libraryDevelop\Expressions.php on line 59
+[13-Nov-2013 12:26:51 Asia/Taipei] PHP Fatal error:  Call to a member function operate() on a non-object in D:\PHP\TWAMPd\htdocs\libraryDevelop\Expressions.php on line 59
+[13-Nov-2013 12:27:27 Asia/Taipei] PHP Fatal error:  Call to a member function operate() on a non-object in D:\PHP\TWAMPd\htdocs\libraryDevelop\Expressions.php on line 59
+[13-Nov-2013 12:28:22 Asia/Taipei] PHP Fatal error:  Call to a member function operate() on a non-object in D:\PHP\TWAMPd\htdocs\libraryDevelop\Expressions.php on line 59
+[13-Nov-2013 12:34:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 588
+[13-Nov-2013 15:10:02 Asia/Taipei] PHP Fatal error:  Cannot redeclare tolinkaddressLocal() (previously declared in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php:695) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 719
+[14-Nov-2013 11:40:09 Asia/Taipei] PHP Parse error:  syntax error, unexpected '{' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 418
+[15-Nov-2013 08:36:42 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 205
+[15-Nov-2013 09:06:01 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"&Pricefilter=0&Datefilter=6"' (T_CONSTANT_ENCAPSED_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 789
+[15-Nov-2013 10:00:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 21
+[15-Nov-2013 10:09:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 31
+[15-Nov-2013 10:14:54 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 208
+[15-Nov-2013 10:55:56 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 544
+[15-Nov-2013 10:59:49 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 542
+[15-Nov-2013 11:13:15 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 35
+[15-Nov-2013 11:16:57 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 48
+[15-Nov-2013 11:17:23 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 48
+[15-Nov-2013 11:30:21 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 850
+[15-Nov-2013 11:30:21 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 850
+[15-Nov-2013 11:31:41 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 850
+[15-Nov-2013 11:31:41 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 850
+[15-Nov-2013 11:32:51 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 851
+[15-Nov-2013 11:32:51 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 851
+[15-Nov-2013 11:33:02 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 851
+[15-Nov-2013 11:33:02 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 851
+[15-Nov-2013 11:34:31 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 851
+[15-Nov-2013 11:34:31 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 851
+[15-Nov-2013 11:43:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 864
+[15-Nov-2013 11:47:31 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$projectlink' (T_VARIABLE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 858
+[15-Nov-2013 12:07:05 Asia/Taipei] PHP Fatal error:  Function name must be a string in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 538
+[15-Nov-2013 12:08:39 Asia/Taipei] PHP Fatal error:  Function name must be a string in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 538
+[15-Nov-2013 12:08:48 Asia/Taipei] PHP Fatal error:  Function name must be a string in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 538
+[15-Nov-2013 12:10:01 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 231 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:10:10 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 231 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:10:13 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 231 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:10:28 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 231 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:10:30 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 231 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:10:47 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:11:31 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:11:31 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:11:57 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 152 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:12:02 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:12:58 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:13:07 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:13:12 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:13:14 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:13:36 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 12:13:40 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 548
+[15-Nov-2013 13:13:18 Asia/Taipei] PHP Fatal error:  Cannot redeclare getfilterset() (previously declared in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php:843) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 889
+[15-Nov-2013 13:15:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected '=', expecting ')' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 861
+[15-Nov-2013 13:20:58 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 231 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:21:07 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 281 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:21:11 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 281 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:21:16 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 281 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:22:18 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:23:28 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:23:43 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:23:43 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:23:53 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:23:59 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:23:59 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:24:18 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 529
+[15-Nov-2013 13:33:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 921
+[15-Nov-2013 13:46:55 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 530
+[15-Nov-2013 13:47:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 530
+[15-Nov-2013 13:48:54 Asia/Taipei] PHP Warning:  mysql_data_seek() expects parameter 2 to be long, string given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 531
+[15-Nov-2013 13:53:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected '[' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 528
+[15-Nov-2013 13:55:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected ')' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 845
+[15-Nov-2013 14:02:52 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 868
+[15-Nov-2013 15:17:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 259
+[15-Nov-2013 15:18:01 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 259
+[15-Nov-2013 15:25:44 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 0 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:31:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$showrowbegin' (T_VARIABLE), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 860
+[15-Nov-2013 15:31:56 Asia/Taipei] PHP Parse error:  syntax error, unexpected '>' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 864
+[15-Nov-2013 15:37:19 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:37:29 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:38:11 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:38:20 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:38:26 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:38:28 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:38:30 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 120 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:38:33 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 180 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:01 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 180 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:05 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 180 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:15 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:17 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:19 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 120 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:21 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 180 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:22 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 180 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:39:29 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 180 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 15:40:11 Asia/Taipei] PHP Warning:  mysql_data_seek(): Offset 90 is invalid for MySQL result index 11 (or the query data is unbuffered) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 549
+[15-Nov-2013 18:55:11 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 867
+[15-Nov-2013 18:55:21 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 867
+[15-Nov-2013 18:55:32 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 867
+[15-Nov-2013 18:55:32 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 867
+[15-Nov-2013 19:58:47 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 871
+[16-Nov-2013 20:05:59 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110446_0_1384603444.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[16-Nov-2013 20:06:46 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110446_0_1384603592.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[16-Nov-2013 21:07:46 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110436_0_1384555869.png): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 186
+[17-Nov-2013 08:50:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL), expecting '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 348
+[17-Nov-2013 08:50:42 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL), expecting '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 348
+[17-Nov-2013 08:50:45 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL), expecting '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 348
+[17-Nov-2013 08:51:22 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL), expecting '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 348
+[17-Nov-2013 09:07:54 Asia/Taipei] PHP Fatal error:  Call to undefined function ProcessNotTgaNote() in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 353
+[18-Nov-2013 15:12:13 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 870
+[18-Nov-2013 15:12:16 Asia/Taipei] PHP Warning:  Division by zero in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 870
+[18-Nov-2013 22:23:21 Asia/Taipei] PHP Fatal error:  Call to undefined function krumo() in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 5
+[18-Nov-2013 22:26:18 Asia/Taipei] PHP Fatal error:  Call to undefined function krumo() in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 6
+[18-Nov-2013 22:27:35 Asia/Taipei] PHP Fatal error:  Call to undefined function krumo() in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 6
+[18-Nov-2013 22:35:00 Asia/Taipei] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at D:\PHP\TWAMPd\htdocs\krumo_0.2.1a_PHP5-Only\class.krumo.php:717) in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 7
+[19-Nov-2013 20:16:53 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'additerm' (T_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproFrontEnd.php on line 9
+[19-Nov-2013 20:18:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'additerm' (T_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproFrontEnd.php on line 9
+[20-Nov-2013 07:56:17 Asia/Taipei] PHP Warning:  include(krumo_0.2.1a_PHP5-Only/class.krumo.php): failed to open stream: No such file or directory in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 48
+[20-Nov-2013 07:56:17 Asia/Taipei] PHP Warning:  include(): Failed opening 'krumo_0.2.1a_PHP5-Only/class.krumo.php' for inclusion (include_path='.;') in D:\PHP\TWAMPd\htdocs\ListproDevelop.php on line 48
+[20-Nov-2013 08:15:50 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110431_17_1384745918.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[20-Nov-2013 10:48:05 Asia/Taipei] PHP Parse error:  syntax error, unexpected '[' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 894
+[20-Nov-2013 10:50:29 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$updateiterms' (T_VARIABLE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 894
+[20-Nov-2013 10:50:48 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';', expecting ']' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 894
+[20-Nov-2013 14:53:06 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 983
+[20-Nov-2013 16:05:49 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:06:21 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:08:06 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:08:17 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:08:38 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:09:15 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:09:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:10:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 92
+[20-Nov-2013 16:16:46 Asia/Taipei] PHP Fatal error:  Call to undefined function open() in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 102
+[20-Nov-2013 16:32:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 94
+[20-Nov-2013 21:52:20 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'Telephonebook' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 386
+[20-Nov-2013 21:54:39 Asia/Taipei] PHP Parse error:  syntax error, unexpected end of file in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControl.php on line 390
+[20-Nov-2013 22:18:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 274
+[20-Nov-2013 22:19:26 Asia/Taipei] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 231
+[20-Nov-2013 22:31:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 262
+[20-Nov-2013 22:43:52 Asia/Taipei] PHP Parse error:  syntax error, unexpected '.' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 618
+[20-Nov-2013 22:45:31 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 274
+[20-Nov-2013 22:45:51 Asia/Taipei] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 274
+[20-Nov-2013 22:53:08 Asia/Taipei] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ']' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 277
+[20-Nov-2013 23:07:54 Asia/Taipei] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 302
+[20-Nov-2013 23:08:05 Asia/Taipei] PHP Warning:  printf(): Too few arguments in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 303
+[20-Nov-2013 23:08:05 Asia/Taipei] PHP Warning:  printf(): Too few arguments in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 303
+[20-Nov-2013 23:08:05 Asia/Taipei] PHP Warning:  printf(): Too few arguments in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 303
+[20-Nov-2013 23:08:05 Asia/Taipei] PHP Warning:  printf(): Too few arguments in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 303
+[21-Nov-2013 07:51:45 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-11/AdditermData/110446_0_1384606751.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[21-Nov-2013 08:26:28 Asia/Taipei] PHP Fatal error:  Call to a member function operate() on a non-object in D:\PHP\TWAMPd\htdocs\libraryDevelop\Expressions.php on line 70
+[21-Nov-2013 08:35:36 Asia/Taipei] PHP Fatal error:  Call to a member function operate() on a non-object in D:\PHP\TWAMPd\htdocs\libraryDevelop\Expressions.php on line 70
+[21-Nov-2013 09:35:37 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 283
+[21-Nov-2013 09:45:16 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 254
+[21-Nov-2013 09:46:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 254
+[21-Nov-2013 09:46:58 Asia/Taipei] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 254
+[21-Nov-2013 10:18:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected '}' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 301
+[21-Nov-2013 23:54:57 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'lgh'@'localhost' (using password: YES) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[21-Nov-2013 23:55:17 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'lgh'@'localhost' (using password: YES) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 00:07:43 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 02:17:22 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'lgh'@'localhost' (using password: YES) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 02:17:43 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 02:17:49 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 02:17:52 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 02:17:56 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 02:18:00 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[22-Nov-2013 11:28:27 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\checklogin.php on line 11
+[24-Nov-2013 07:18:40 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[24-Nov-2013 07:18:49 Asia/Taipei] PHP Warning:  mysql_connect():  in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 592
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_0_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_1_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_2_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_3_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_4_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_5_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_6_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_7_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_8_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_9_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_10_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_11_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_12_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_13_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_14_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_15_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_16_1386868680.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_17_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_18_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_19_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_20_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_21_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_22_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_23_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_24_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_25_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_26_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_27_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[25-Dec-2013 22:09:00 Asia/Taipei] PHP Warning:  unlink(frank_lgh/2013-12/AdditermData/1792_28_1386868681.jpg): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 192
+[26-Dec-2013 11:10:32 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"</div></th>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 1050
+[26-Dec-2013 11:22:52 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'table_html_tail' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 1018
+[26-Dec-2013 11:23:32 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'table_html_tail' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 1018
+[26-Dec-2013 11:23:41 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'table_html_tail' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 1018
+[26-Dec-2013 11:24:03 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'table_html_tail' (T_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproShowLib.php on line 1018
+[26-Dec-2013 17:09:34 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 329
+[26-Dec-2013 17:09:48 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in D:\PHP\TWAMPd\htdocs\libraryDevelop\Listprolib.php on line 329
+[26-Mar-2014 05:14:37 Asia/Taipei] PHP Warning:  unlink(frank_lgh/201403/AdditermData/110809_0_1395781971.PNG): No such file or directory in D:\PHP\TWAMPd\htdocs\libraryDevelop\ListproControlLib.php on line 186

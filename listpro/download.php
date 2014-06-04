@@ -1,0 +1,89 @@
+<?php
+$Dir='upload\\';
+//print_r($_FILES);
+$allowedExts = array("gif", "jpeg", "jpg", "png");
+$temp = explode(".", $_FILES["File1"]["name"]);
+$extension = end($temp);
+$size=$_FILES["File1"]["size"] / 1024;
+printf (" Size: %d kB<br>",$size);
+if($_POST['submitvalue'] === 'size' )exit;
+
+$file=$_FILES["File1"]["name"];
+
+  if ($_FILES["File1"]["error"] > 0)
+    {
+    echo "Return Code: " . $_FILES["File1"]["error"] . "<br>";
+    }
+  else
+    {
+  //$file="01.jpg";
+  $dir_file=$Dir . $file;
+ download_file($dir_file);
+    }
+ 
+
+
+function download_file($file){
+ 
+   //先確定檔案是否存在
+ // die("<b>404 $file File not found!</b>");
+   if (!is_file($file)) { die("<b>404 File in not found!</b>"); }
+ 
+   //取得檔案資訊
+   $len = filesize($file);
+   $filename = basename($file);//FILENAME是下載下來的檔案名稱
+   $file_extension = strtolower(substr(strrchr($filename,"."),1));//根據最後一個.取得副檔名
+ 
+   //根據副檔名取得ctype
+  switch( $file_extension ) {
+	 case "pdf": $ctype="application/pdf"; break;
+	 case "exe": $ctype="application/octet-stream"; break;
+	 case "zip": $ctype="application/zip"; break;
+	 case "doc": $ctype="application/msword"; break;
+	 case "xls": $ctype="application/vnd.ms-excel"; break;
+	 case "ppt": $ctype="application/vnd.ms-powerpoint"; break;
+	 case "gif": $ctype="image/gif"; break;
+	 case "png": $ctype="image/png"; break;
+	 case "jpeg":
+	 case "jpg": $ctype="image/jpg"; break;
+	 case "mp3": $ctype="audio/mpeg"; break;
+	 case "wav": $ctype="audio/x-wav"; break;
+	 case "mpeg":
+	 case "mpg":
+	 case "mpe": $ctype="video/mpeg"; break;
+	 case "mov": $ctype="video/quicktime"; break;
+	 case "avi": $ctype="video/x-msvideo"; break;
+ 
+	 //The following are for extensions that shouldn't be downloaded (sensitive stuff, like php files)
+	 case "php":
+	 case "htm":
+	 case "html":
+	 case "txt": die("<b>Cannot be used for ". $file_extension ." files!</b>"); break;
+ 
+	 default: $ctype="application/force-download";
+   }
+ 
+   //Header的開頭
+   header("Pragma: public");
+   header("Expires: 0");
+   header("Cache-Control: must-revalidate, post-check=0, pre-check=0");
+   header("Cache-Control: public");
+   header("Content-Description: File Transfer");
+ 
+   //動態使用CTYPE
+   header("Content-Type: $ctype");
+ 
+   //下載
+   $header="Content-Disposition: attachment; filename=".$filename.";";
+   header($header );
+   header("Content-Transfer-Encoding: binary");
+   header("Content-Length: ".$len);
+   //ini_set('memory_limit','50M');使用 readfile 函數在做檔案下載處理時，遇到大檔案無法處理的問題。
+   ob_end_flush();
+   @readfile($file);//file 是完整的SERROOT PATH
+   exit;
+}
+//foreach ($urls as $i => $url)
+
+//file_put_contents($save_to . date('Y-m-d_H-i-s_') . basename($url), file_get_contents($url));
+?>

@@ -1,0 +1,2 @@
+[27-Sep-2013 00:06:58 Asia/Taipei] PHP Warning:  readfile(http://192.168.1.101:6001/upload/upload/02.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\PHP\TWAMPd\htdocs\testdownload.php on line 18

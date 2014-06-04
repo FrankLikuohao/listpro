@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8"/>
+		<title>Mini Ajax File Upload Form</title>
+
+		<!-- Google web fonts -->
+		<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel='stylesheet' />
+
+		<!-- The main CSS file -->
+		<link href="assets/css/style.css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<br >Iterm added</br>
+		<form id="upload"  method="post" action="listprodevelop.php"  enctype="multipart/form-data">
+		<table class=additerm width="720" border="0" cellspacing="1" cellpadding="2">
+		<tr> 
+		<td width="100">Checkbox</td>
+		<td><input name="Checkbox" type="checkbox" id="Checkbox"></td>
+		</tr>
+		<tr> 
+		<td width="100">Flag</td>
+		<td><input name="Flag" type="checkbox" id="Flag"></td>
+		</tr>
+		<tr> 
+		<td width="100">Iterms(a,b,c)</td>
+		<td><input name="Iterms" type="text" id="Iterms"></td>
+		</tr>
+		<tr>
+		<td width="100">Where</td>
+		<td><input name="Where" type="text" id="Where"></td>
+		</tr>
+		
+		<tr> 
+		<td width="100">Price(a,b,c,)</td>
+		<td><input name="Price" type="text" id="Price"></td>
+		 </tr>
+		<tr> 
+		
+		
+		<td width="100" >Notes</td>
+		<td><textarea name="Notes"  rows="10" id="Notes"></textarea></td>
+		
+		
+			<td>Date</td>';
+		<td ><input type='text' id='dateinput' size='10' name='Date'></td>";
+		</tr>
+		
+		<tr> 
+		<td width="100">&nbsp;</td>
+		
+		<tr> 
+		<td width="100">&nbsp;</td>
+		<td><input name="add1" type="submit" id="add" value="Add New iterms"></td>
+		</tr>
+		</table>
+			</form>
+
+		
+	
+		<!--form id="upload"  method="post" action="listprodevelop.php"  enctype="multipart/form-data"-->
+		<div id="drop" >
+			Drop Here
+
+				<a>Browse</a>
+		<td>   Choose Files To Upload : <input type="file" name="File[]"  multiple  /> 
+		<td id="showszie"></td>
+		</tr>
+		</div>		
+		<ul>
+				<!-- The file uploads will be shown here -->
+		</ul>
+			<td><input name="add1" type="submit" id="add" value="Add New iterms"></td>
+	
+		</form>
+
+		
+        
+		<!-- JavaScript Includes -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="assets/js/jquery.knob.js"></script>
+
+		<!-- jQuery File Upload Dependencies -->
+		<script src="assets/js/jquery.ui.widget.js"></script>
+		<script src="assets/js/jquery.iframe-transport.js"></script>
+		<script src="assets/js/jquery.fileupload.js"></script>
+		
+		<!-- Our main JS file -->
+		<script src="assets/js/script.js"></script>
+
+
+		<!-- Only used for the demos. Please ignore and remove. --> 
+        <!--script src="http://cdn.tutorialzine.com/misc/enhance/v1.js" async--></script>
+
+	</body>
+</html>

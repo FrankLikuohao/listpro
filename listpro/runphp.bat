@@ -1,0 +1,6 @@
+d:
+cd D:\PHP\TWAMPd\ap\
+
+D:\PHP\TWAMPd\ap\php-5.4\php-win.exe -f D:\PHP\TWAMPd\htdocs\fileopen.php
+D:\PHP\TWAMPd\htdocs\php54_errors.log
+pause

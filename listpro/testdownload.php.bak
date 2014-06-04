@@ -1,0 +1,68 @@
+<html> 
+<head> 
+   <meta http-equiv="Content-Type" content="text/html;charset=big5"> 
+   <meta http-equiv="PRAGMA" content="NO-CACHE"> 
+   <title>Lgh_html</title> 
+</head> 
+<body> 
+<?php
+if ($handle = opendir('upload/')) {
+   // echo "Directory handle: $handle\n";
+    //echo "Entries:\n";
+
+    /* This is the correct way to loop over the directory. */
+    while (false !== ($entry = readdir($handle))) {
+        //echo "$entry\n";
+        $showname=iconv("big5","UTF-8",$entry);
+        $string= '<a href="http://192.168.1.101:6001/testdownload.php?f=upload/' . $entry . '">upload/' . $showname . '</a>';
+        print  "<br>$string";
+    }
+
+   
+    closedir($handle);
+}
+?>
+
+<?php
+print_r($_GET);
+$file=$_GET['f'];
+print ("file=[$file]  ");
+if (!is_file($file)) { die("<b>404 File not found!</b>"); }
+else if($file!=null){
+	 //¨ú±oÀÉ®×¸ê°T
+   $len = filesize($file);
+   $filename = basename($file);//FILENAME¬O¤U¸ü¤U¨ÓªºÀÉ®×¦WºÙ
+   $file_extension = strtolower(substr(strrchr($filename,"."),1));//®Ú¾Ú³Ì«á¤@­Ó.¨ú±o°ÆÀÉ¦W
+	
+	
+	//Headerªº¶}ÀY
+   header("Pragma: public");
+   header("Expires: 0");
+   header("Cache-Control: must-revalidate, post-check=0, pre-check=0");
+   header("Cache-Control: public");
+   header("Content-Description: File Transfer");
+ 
+   //°ÊºA¨Ï¥ÎCTYPE
+   $ctype="application/force-download";
+   header("Content-Type: $ctype");
+ 
+   //¤U¸ü
+   $header="Content-Disposition: attachment; filename=".$filename.";";
+   header($header );
+   header("Content-Transfer-Encoding: binary");
+   header("Content-Length: ".$len);
+   //ini_set('memory_limit','50M');¨Ï¥Î readfile ¨ç¼Æ¦b°µÀÉ®×¤U¸ü³B²z®É¡A¹J¨ì¤jÀÉ®×µLªk³B²zªº°ÝÃD¡C
+   ob_end_flush();
+   
+  	
+	//$url="http://www.arno.tw/images/"; //è·¯å?ä½ç½®
+	$url="http://192.168.1.101:6001/"; //è·¯å?ä½ç½®
+	$num=date("Ymds");	
+	readfile($url.str_replace("@","",$file));	
+	exit(0);
+}else{
+	echo "?¾ä??°ç›¸?œæ?æ¡?...";
+}
+?>
+</body> 
+</html>
